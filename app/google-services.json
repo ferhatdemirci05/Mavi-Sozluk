@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1016928274236",
+    "firebase_url": "https://maviszlk.firebaseio.com",
+    "project_id": "maviszlk",
+    "storage_bucket": "maviszlk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016928274236:android:b6888d000054138f",
+        "android_client_info": {
+          "package_name": "com.burhangok.mavisozluk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016928274236-6f7pf7tj2288r5omdss38eep83r3a1js.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.burhangok.mavisozluk",
+            "certificate_hash": "21e08a289af2093a40810db0235c8b2dc7a3ac5a"
+          }
+        },
+        {
+          "client_id": "1016928274236-andbi3o2lpio0l44dvmdreeqavafdvbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjitme9-Fi2nGc7UaMBFneoAmd134IS70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016928274236-andbi3o2lpio0l44dvmdreeqavafdvbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
